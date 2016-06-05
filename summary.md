@@ -10,7 +10,7 @@ return** (CR or '\\r') and **line feed** (LF or \\n). To find out which
 one a document has, open it in textwrangler and check at the bottom. It
 can be changed.
 
-![](.png)
+![](https://github.com/davidpuga/pcfb_summary/blob/master/images/line_ending_TW.png)
 
 **II) Ch.2**
 
